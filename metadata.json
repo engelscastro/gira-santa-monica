@@ -1,0 +1,8 @@
+{
+  "name": "Gira Santa Mônica - Perguntados da Gestante",
+  "description": "Jogo educativo interativo estilo Perguntados da Maternidade Escola Santa Mônica (MESM - UNCISAL) para gestantes e puérperas com roleta temática, perguntas oficiais e dicas de saúde materno-infantil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
